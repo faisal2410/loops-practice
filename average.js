@@ -1,3 +1,8 @@
+/**
+ * Write a program to calculate the average marks of Mathematics, Biology, Chemistry, Physics, and 
+Bangla of a student
+ * */ 
+
 // 75.25, 65, 80, 35.45, 99.50
 // Mathematics, Biology, Chemistry, Physics, and Bangla
 var mathMarks = 75.25;
