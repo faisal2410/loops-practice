@@ -12,10 +12,10 @@
 4. Change the loop variable
 */
 
-var roastGiven = 0;
-while(roastGiven < 7) {
-    console.log('Roast Den, Please !!')
-    console.log(roastGiven);
-    roastGiven++;
+var roastGiven=0;
+while(roastGiven <= 100) {
+    console.log("Ostad Class",'Roast Den, Please !!',roastGiven)
+    // console.log(roastGiven);
+    roastGiven+=2;
 }
 
